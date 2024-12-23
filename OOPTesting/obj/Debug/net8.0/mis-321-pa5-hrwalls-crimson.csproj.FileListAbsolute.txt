@@ -1,0 +1,15 @@
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\bin\Debug\net8.0\mis-321-pa5-hrwalls-crimson.exe
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\bin\Debug\net8.0\mis-321-pa5-hrwalls-crimson.deps.json
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\bin\Debug\net8.0\mis-321-pa5-hrwalls-crimson.runtimeconfig.json
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\bin\Debug\net8.0\mis-321-pa5-hrwalls-crimson.dll
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\bin\Debug\net8.0\mis-321-pa5-hrwalls-crimson.pdb
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.AssemblyInfoInputs.cache
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.AssemblyInfo.cs
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.sourcelink.json
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.dll
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\refint\mis-321-pa5-hrwalls-crimson.dll
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.pdb
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\mis-321-pa5-hrwalls-crimson.genruntimeconfig.cache
+C:\Users\Hayden\Desktop\MIS321\mis-321-pa5-hrwalls-crimson\obj\Debug\net8.0\ref\mis-321-pa5-hrwalls-crimson.dll
